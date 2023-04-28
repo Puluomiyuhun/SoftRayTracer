@@ -1,0 +1,15 @@
+#ifndef MAINCAMERA_H
+#define MAINCAMERA_H
+#include "vector3d.h"
+
+class maincamera
+{
+public:
+    Vector3D pos;
+    Vector3D goal;
+    Vector3D 
+public:
+    maincamera();
+};
+
+#endif // MAINCAMERA_H
